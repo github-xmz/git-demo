@@ -9,3 +9,4 @@ hello git
 hello git conflict master 
 hello git conflict-test
 git pull remote merge
+ssh test
